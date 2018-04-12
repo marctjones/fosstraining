@@ -26,7 +26,7 @@ print ("Hello world")
 ```python
 x = 1 + 1
 ```
-5.2 Computers can rember things
+5.2 Computers can remember things
 ```python
 x
 ```
