@@ -2,7 +2,7 @@
 ```python
 print ("Hello world")
 ```
-2. Doing math
+2. Do math
 ```python
 1 + 1
 ```
@@ -22,7 +22,7 @@ print ("Hello world")
 ```python
 1 + (1 / 3)
 ```
-5.1 Computers can rember things
+5.1 Computers can remember things
 ```python
 x = 1 + 1
 ```
@@ -40,7 +40,7 @@ print ("x")
 print (x)
 ```
 
-6.3 There is a difference between strings and numbers
+6.3 There is a difference between strings and numbers and comments
 ```python
 # This is not a string. It is a comment
 # x = 7
@@ -58,7 +58,7 @@ print (x)
 print ("There are " + str(x) + " states.")
 ```
 
-9. You can tell computers do things in repeatable chunks.
+9. You can tell computers to do things in repeatable chunks.
 ```python
 def adder (x):
     for y in x:
@@ -104,13 +104,13 @@ print ("Hello world”)
 # Hint: It is a typographical error.
 ```
 
-13.1 You have to intentionally borrow other peoples code
+13.1 You have to intentionally borrow other people's code
 ```python
 # Won't work
 math.sqrt(2)
 ```
 
-13.2 You have to intentionally borrow other peoples code
+13.2 You have to intentionally borrow other people's code
 ```python
 # This will work
 import math
