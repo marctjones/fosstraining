@@ -53,7 +53,7 @@ print (x)
 x = 10 * 5
 print (x)
 ```
-8. And you can combining things together
+8. And you can combine things together
 ```python
 print ("There are " + str(x) + " states.")
 ```
@@ -66,7 +66,7 @@ def adder (x):
 adder ([1, 2])
 ```
 
-10. computers get mad when you make mistakes
+10. Computers get mad when you make mistakes
 ```python
 def adder (x):
      for y in x:
@@ -76,7 +76,7 @@ def adder (x):
 print (adder ([1, 2]))
 ```
 
-11. computers get mad when you make mistakes, except when they don't
+11. Computers get mad when you make mistakes; except when they don't!
 ```python
 def adder (x):
      for y in x:
@@ -123,7 +123,7 @@ math.sqrt(2)
 math.sqrt(9)
 ```
 
-14. You can do some really complicated stuff by borrowing other peoples code
+14. You can do some really complicated stuff by borrowing other people's code
 ```python
 import http.client
 conn = http.client.HTTPConnection('google.com')
